@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oluwadamilarejoshua
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning MATLAB and I'm quite good with R
+- 🌱 I’m currently learning Python and I'm quite good with R
 - 💞️ I’m looking to collaborate on Package development in R
 - 📫 How to reach me: you can reach me via oluwadamilarejoshu01@gmail.com
 

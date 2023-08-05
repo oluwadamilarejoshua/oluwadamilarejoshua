@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Oluwadamilare Ogundairo
-- 👀 I’m interested in Data Analytics and Analytics Engineering
-- 🌱 I’m currently learning Applied Data Science; I'm quite good with R, Python and SQL
+- 👀 I’m interested in Data Analytics and Statistics.
+- 🌱 I’m currently working on Applied Analytics; I'm quite good with R, Python, and SQL
 - 💞️ I’m looking to collaborate on Package development in R and data science projects in Python
 - 📫 How to reach me: you can reach me via oluwadamilarejoshua01@gmail.com
 
